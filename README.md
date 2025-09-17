@@ -5,6 +5,6 @@
 
 **Nombre:**  Sergio René De La Cruz Rodríguez.  
 **Especialidad:**  Programación.  
-**Edad:**  17 años.
-**Grado y grupo:** 5.D
-**Ciclo escolar:** 2023-2026
+**Edad:** 17 años.  
+**Grado y grupo:** 5.D  
+**Ciclo escolar:** 2023-2026  
